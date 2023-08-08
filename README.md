@@ -9,6 +9,7 @@ For the python installation it is important to include the following packages:
 - numpy
 - pandas
 - itertools
+
 The tool will ask for the path to your python executable. Normally this path is: C:\Users\USER\AppData\Local\Microsoft\WindowsApps\python.exe
 
 Rhino is used with grasshopper. Grasshopper is included in Rhino 7. In addition the Karamba3D plug-in is required if the user wants to visualise the solution that are generated with the tool.
